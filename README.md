@@ -1,4 +1,4 @@
-# Deep Learning exercises at Paris-Saclay et UVSQ
+# Deep Learning exercises at UVSQ and Paris-Saclay
 
 Here is the content of the course of Deep Learning at the University of Versailles Saint-Quentin, belonging to the one-year master's degree M2 in "Mathematics and Statistcal Learning":
 

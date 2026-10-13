@@ -1,6 +1,6 @@
-# Deep Learning exercises at UVSQ
+# Deep Learning exercises at Paris-Saclay et UVSQ
 
-Here is the content of the course of Deep Learning at the UVSQ et Paris-Saclay:
+Here is the content of the course of Deep Learning at the University of Versailles Saint-Quentin, belonging to the one-year master's degree M2 in "Mathematics and Statistcal Learning":
 
 0) Review of Python classes and subclasses
 1) Logistic Regression with Sklearn and PyTorch

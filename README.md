@@ -3,6 +3,8 @@
 Here is the content of the course of Deep Learning at the UVSQ et Paris-Saclay:
 
 0) Review of Python classes and subclasses
+1) Logistic Regression with Sklearn and PyTorch
+2) Neural Networks with more hidden layers
 
 ------------
 

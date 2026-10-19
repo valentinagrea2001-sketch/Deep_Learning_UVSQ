@@ -6,12 +6,22 @@ Here is the content of the course of Deep Learning at the University of Versaill
    
 1) Logistic Regression with Sklearn, Bootstrap methods (random forest) and PyTorch
 
-   \[numpy, scikit-learn, torch, torchvision.datasets\] 
+2) Logistic Regression with more hidden layers and Neural Networks with more hidden layers
 
-3) Neural Networks with more hidden layers
+3) Datasets and Dataloads
+
+4) Convolutional Neural Networks
 
 ------------
 
 *For each topic, you will find an exercise sheet in Python.*
 
-*The employed libraries are put into brackets, right after the topic title.*
+------------
+
+## Employed libraries:
+
+numpy, scikit-learn, torch
+
+## Employed datasets:
+
+MNIST from torch.datasets

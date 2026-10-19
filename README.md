@@ -8,9 +8,11 @@ Here is the content of the course of Deep Learning at the University of Versaill
 
 2) Logistic Regression with more hidden layers and Neural Networks with more hidden layers
 
-3) Datasets and Dataloads
+3) RealMLP implementation
 
-4) Convolutional Neural Networks
+4) Datasets and Dataloads
+
+5) Convolutional Neural Networks
 
 ------------
 

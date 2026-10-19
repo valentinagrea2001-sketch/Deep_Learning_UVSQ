@@ -5,6 +5,7 @@ Here is the content of the course of Deep Learning at the University of Versaill
 0) Review of Python classes and subclasses
    
 1) Logistic Regression with Sklearn, Bootstrap methods (random forest) and PyTorch
+
    \[numpy, scikit-learn, torch, torchvision.datasets\] 
 
 3) Neural Networks with more hidden layers

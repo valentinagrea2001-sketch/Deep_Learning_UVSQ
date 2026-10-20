@@ -6,13 +6,19 @@ Here is the content of the course of Deep Learning at the University of Versaill
    
 1) Logistic Regression with Sklearn, Bootstrap methods (random forest) and PyTorch
 
-2) Logistic Regression with more hidden layers and Neural Networks with more hidden layers
+2) A NN with more hidden layers and a comparison between optimization methods (GD, SGD, mini-batch SGD, Adam)
+
+   > Here implemented SGD and Adam, with Adam providing best results in terms of accuracy
 
 3) RealMLP implementation
 
-4) Datasets and Dataloads
+4) Datasets, Dataloads, Subsets
 
-5) Convolutional Neural Networks
+5) A NN with more hidden layers and a comparison between optimization methods (GD, SGD, mini-batch SGD, Adam)
+
+   > Here implemented mini-batch SGD
+
+6) Convolutional Neural Networks
 
 ------------
 
@@ -22,7 +28,7 @@ Here is the content of the course of Deep Learning at the University of Versaill
 
 ## Employed libraries:
 
-numpy, scikit-learn, torch
+numpy, scikit-learn, torch.nn, torch.optim, collections.abc
 
 ## Employed datasets:
 

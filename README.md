@@ -32,7 +32,7 @@ Here is the content of the course of Deep Learning at the University of Versaill
 
 ## Employed libraries:
 
-numpy, scikit-learn, torch.nn, torch.optim, collections.abc
+numpy, scikit-learn, torch.nn, torch.optim, torchinfo, collections.abc, matplotlib.pyplot, openml, pathlib
 
 ## Employed datasets:
 

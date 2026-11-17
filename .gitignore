@@ -4,10 +4,4 @@
 
 .venv/
 
-check_mlp.py
-
-mlp.py
-
-preprocessing.py
-
-Dataset_Dataloader_code.py
+*.py

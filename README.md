@@ -1,20 +1,24 @@
 # Deep Learning exercises at UVSQ and Paris-Saclay
 
-Here is the content of the course of Deep Learning at the University of Versailles Saint-Quentin, belonging to the one-year master's degree M2 of Paris-Saclay in "Mathematics and Statistcal Learning":
+Here is the content of the course of Deep Learning at the University of Versailles Saint-Quentin, belonging to the one-year master's degree M2 of Paris-Saclay in "Mathematics and Statistical Learning":
 
 0) Review of Python classes and subclasses
+
+1) Introduction to Feedforward Neural Networks == MLPs
    
-1) Logistic Regression with Sklearn, Bootstrap methods (random forest) and PyTorch
+2) Activation functions plots, with pros and cons
 
-2) Plots of common activation functions, with pros and cons
+3) Logistic regression: a multiclassifier with 1 hidden layer
 
-3) A NN with more hidden layers and a comparison between optimization methods (GD, SGD, mini-batch SGD, Adam)
+   > A comparison between: bootstrap random forest method, Sklearn MLP classifier, and PyTorch classifier
 
-   > Here implemented SGD and Adam, with Adam providing best results in terms of accuracy
+4) - MLP multiclassifier with more hidden layers
 
-4) A comparison between Random Forest, classic Multi-layer perceptron MLP and RealMLP
+   - Comparison between optimization methods Gradient Descent, Stochastic Gradient Descent, Adam
 
-   > RealMLP manages the data pre-processing by itself, achieves better results than the classic MLP, and of course the Random Forest
+   > Adam provides the best results in terms of accuracy
+
+5) An example of MLP trained on a OpenML dataset
 
 6) Datasets, Dataloads, Subsets
 

@@ -26,7 +26,11 @@ Here is the content of the course of Deep Learning at the University of Versaill
 
 7) Mini-batch stochastic gradient descent.
 
-   > A comparison between optimization methods Gradient Descent, Stochastic Gradient Descent, Mini-batch stochastic gradient descent.
+   > THIS FILE CONTAINS THE BEST PRACTICE UNTIL HERE:
+
+   1) Preparing the dataset with Dataset, Subsets, DataLoader
+   2) Creating the nn.Module class of the MLP classifier
+   3) Training and evaluating the model with batching
 
 8) A NN with more hidden layers and a comparison between optimization methods (GD, SGD, mini-batch SGD, Adam).
 

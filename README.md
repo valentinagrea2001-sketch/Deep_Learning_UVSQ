@@ -24,13 +24,14 @@ Here is the content of the course of Deep Learning at the University of Versaill
 
    > The 'in practice' approach to prepare a dataset for the training and evaluation of a MLP.
 
-7) Mini-batch stochastic gradient descent.
+7) Mini-batch training.
 
-   > THIS FILE CONTAINS THE BEST PRACTICE UNTIL HERE:
+   > THIS FILE CONTAINS THE BEST PRACTICE UNTIL HERE!!
 
    1) Preparing the dataset with Dataset, Subsets, DataLoader
    2) Creating the nn.Module class of the MLP classifier
    3) Training and evaluating the model with batching
+   4) One Hot Encoding training (if labels are categorical)
 
 8) A NN with more hidden layers and a comparison between optimization methods (GD, SGD, mini-batch SGD, Adam).
 

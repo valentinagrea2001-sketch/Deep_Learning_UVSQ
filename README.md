@@ -33,13 +33,31 @@ Here is the content of the course of Deep Learning at the University of Versaill
    3) Training and evaluating the model with batching
    4) One Hot Encoding training (if labels are categorical)
 
-8) A NN with more hidden layers and a comparison between optimization methods (GD, SGD, mini-batch SGD, Adam).
+8) CNNs theory and complete small example of CNN in PyTorch.
 
-   > Here implemented mini-batch SGD
+   > THIS FILE CONTAINS THE COMPLETE THEORY ON CNNs !!
 
-9) Convolutional Neural Networks.
+   - convolutional layers
+   - equivariance by translation
+   - padding
+   - max pooling
 
-10) Natural Language processing and Transformers.
+9) CNNs and Data Augmentation, with MNIST Dataset.
+
+10) CNNs and overfitting: regularization ways, with ImageNet dataset.
+
+   > THIS FILE CONTAINS THE COMPLETE THEORY FOR REGULARIZATION OF CNNs
+
+   - dropout
+   - batch normalization
+   - Adam Weights Decay optimizer
+   - ResNet
+
+11) Natural Language processing and Transformers.
+
+   > THIS FILE CONTAINS THE THEORY OF NLP AND TRANSFORMERS
+
+12) Example of document classification with CNN and transformer.
 
 ------------
 
@@ -53,4 +71,4 @@ numpy, scikit-learn, torch.nn, torch.optim, torchinfo, collections.abc, matplotl
 
 ## Employed datasets:
 
-MNIST from torch.datasets
+MNIST from torch.datasets, ImageNet
